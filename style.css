@@ -1,3 +1,9 @@
+.top-logo img {
+  width: 150px;
+  height: auto;
+  border-radius: 12px; /* 👈 This makes the corners rounded */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds subtle shadow */
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
