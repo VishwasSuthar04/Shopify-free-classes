@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #3c240f;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .highlight {
+    color: #ffdd00;
+  }
+  
+  .highlight-yellow {
+    color: #ccff00;
+  }
+  
+  .hurry {
+    font-size: 28px;
+    color: #ffeb3b;
+    margin-top: 20px;
+  }
+  
+  .countdown {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    font-size: 20px;
+    margin: 20px 0;
+    color: orange;
+  }
+  
+  .countdown div {
+    background: #fff;
+    color: #3c240f;
+    padding: 10px;
+    border-radius: 8px;
+    min-width: 60px;
+  }
+  
+  .register-btn {
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .seats-msg {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  .success-heading {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #d4ff00;
+  }
+  
+  .stories {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .stories img {
+    width: 120px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+  }
+  
